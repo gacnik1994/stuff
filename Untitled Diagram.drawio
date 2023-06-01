@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T11:51:58.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.2" etag="RuEaB6Qz9f8cwn6DU1AM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T11:54:18.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="BF_6Z9P5jAWBF6VQ7wi6" version="21.3.2" type="github">
   <diagram name="Page-1" id="jG-mGLcYEL3HcZszOo6c">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBFK9HmDLQ_2xt_7VcyN-1" target="iBFK9HmDLQ_2xt_7VcyN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-1" value="START" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="115" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBFK9HmDLQ_2xt_7VcyN-3" target="iBFK9HmDLQ_2xt_7VcyN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-3" value="PROGRAMIRANJE VEZJA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBFK9HmDLQ_2xt_7VcyN-5" target="iBFK9HmDLQ_2xt_7VcyN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-5" value="NATIKANJE KRTAČK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBFK9HmDLQ_2xt_7VcyN-7" target="iBFK9HmDLQ_2xt_7VcyN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-7" value="ROČNO VARJENJE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBFK9HmDLQ_2xt_7VcyN-9" target="iBFK9HmDLQ_2xt_7VcyN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-9" value="VARJENJE VEZJA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBFK9HmDLQ_2xt_7VcyN-11" target="iBFK9HmDLQ_2xt_7VcyN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-11" value="ZALIVANJE VEZJA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBFK9HmDLQ_2xt_7VcyN-13" target="iBFK9HmDLQ_2xt_7VcyN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-13" value="MERITEV IZDELKA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBFK9HmDLQ_2xt_7VcyN-15" value="KONEC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="255" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
